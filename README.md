@@ -1,9 +1,6 @@
 # Yii2 Assignment – User & Project Management System  
 **Author:** Rakesh Kumar
-**Framework:** Yii2 Basic Template  
-**Submission For:** ToXSL Technologies  
-**Submission Via:** career@toxsl.com  
-
+**Framework:** Yii2 Basic Template 
 ---
 
 -----------Login Access----------------
